@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Inside Memories
+
+This log tracks the cryptographic history and versioning for the song **Inside Memories** (inside-memories).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T02:59:16.020262 | `v1` | `dc7fb3b669a3eb49cfddd0a4c78c75eafad0f7c0162b9958377190afe1067de8` | `5743e01c8de1247f50569387247344100243f1ad8c7ce44e8806f31b9120315a` | `2026-05-21_inside-memories-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
